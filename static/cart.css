@@ -65,25 +65,25 @@ span{
 }
 
 .thirdsection .firstthirdsection{
-    background-image: url(images/images\ \(13\).jpeg);
+    background-image: url(./images/table-2879226__480.jpg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
     margin-left: 50px;
     height: 40vh;
     width: 40%;
-    padding: 20px;
+    padding: 30px;
 }
 
 .thirdsection .secondthirdsection{
-    background-image: url(images/img/images\ \(3\).jpg);
+    background-image: url(./images/top-view-delicious-fruits-with-copy-space_23-2148501488.webp);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
     margin-left: -50px;
     height: 40vh;
     width: 40%;
-    padding: 20px;
+    padding: 30px;
 }
 
 .firstthirdsection h2, .secondthirdsection h2{
