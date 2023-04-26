@@ -1,0 +1,104 @@
+nav{
+    background-color: beige;
+    display: flex;
+    justify-content: space-around;
+    gap: 150px;
+}
+
+nav .icon{
+    color: green;
+}
+
+ul{
+    display: flex;
+    gap: 30px;
+    list-style: none;
+    font-weight: 800;
+    color: darkgrey;
+}
+
+ul li:first-child{
+    color: green;
+}
+
+/* nav ends */
+
+.secondsection{
+    align-items: center;
+    display: flex;
+    justify-content: space-around;
+    background-color: beige;
+    height: 60vh;
+    flex-wrap: wrap;
+
+}
+
+.secondsectiontext{
+    color: green;
+}
+
+.secondsectiontext h2{
+    font-size: 45px;
+}
+
+.secondsectiontext p{
+    color: darkgrey;
+    margin-top: -20px;
+}
+
+span{
+    color: orange;
+}
+
+.secondsectionimg img{
+    height: 45vh;
+    width: 75vh;
+}
+
+/* Second Section ends */
+
+.thirdsection{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 50px;
+}
+
+.thirdsection .firstthirdsection{
+    background-image: url(images/images\ \(13\).jpeg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-left: 50px;
+    height: 40vh;
+    width: 40%;
+    padding: 20px;
+}
+
+.thirdsection .secondthirdsection{
+    background-image: url(images/img/images\ \(3\).jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-left: -50px;
+    height: 40vh;
+    width: 40%;
+    padding: 20px;
+}
+
+.firstthirdsection h2, .secondthirdsection h2{
+    margin-top: 80px;
+}
+
+.firstthirdsection p{
+    color: brown;
+}
+
+.secondthirdsection p{
+    color: darkgrey;
+}
+
+.firstthirdsection a, .secondthirdsection a{
+    color: green;
+    font-weight: 900;
+}
